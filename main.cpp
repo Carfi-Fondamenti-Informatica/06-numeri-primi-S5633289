@@ -2,8 +2,6 @@
 #include "lib.h"
 using namespace std;
 
-int b = 1;
-
 int main() {
     int i,i2;
     cin>>i>>i2;
