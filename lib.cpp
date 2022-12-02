@@ -1,3 +1,5 @@
+#include "lib.h"
+
 int b=1;
 bool intero(int a){
     bool ris = true;
